@@ -3,13 +3,13 @@
   "version": "1.0.0",
   "description": "Addon to passer to add analytics functionality",
   "main": "index.js",
-  "scripts": {
-    "test": "null"
-  },
   "keywords": [
     "passer",
     "analytics"
   ],
+  "dependencies": {
+    "passer": "^1.0.1"
+  },
   "author": "Ajani James Bilby",
   "license": "ISC"
 }
