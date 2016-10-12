@@ -1,0 +1,15 @@
+{
+  "name": "passer-analytics",
+  "version": "1.0.0",
+  "description": "Addon to passer to add analytics functionality",
+  "main": "index.js",
+  "scripts": {
+    "test": "null"
+  },
+  "keywords": [
+    "passer",
+    "analytics"
+  ],
+  "author": "Ajani James Bilby",
+  "license": "ISC"
+}
